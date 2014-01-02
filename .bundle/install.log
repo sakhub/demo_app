@@ -1,0 +1,71 @@
+# Logfile created on 2013-12-31 16:02:41 +0530 by logger.rb/31641
+I, [2013-12-31T16:02:41.032852 #4356]  INFO -- : 0:  rake (0.8.7) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/rake-0.8.7.gemspec
+I, [2013-12-31T16:02:41.036444 #4356]  INFO -- : 0:  activesupport (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/activesupport-2.3.18.gemspec
+I, [2013-12-31T16:02:41.036931 #4356]  INFO -- : 0:  rack (1.1.6) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/rack-1.1.6.gemspec
+I, [2013-12-31T16:02:41.037410 #4356]  INFO -- : 0:  actionpack (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/actionpack-2.3.18.gemspec
+I, [2013-12-31T16:02:41.037840 #4356]  INFO -- : 0:  actionmailer (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/actionmailer-2.3.18.gemspec
+I, [2013-12-31T16:02:41.038281 #4356]  INFO -- : 0:  activerecord (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/activerecord-2.3.18.gemspec
+I, [2013-12-31T16:02:41.038720 #4356]  INFO -- : 0:  activeresource (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/activeresource-2.3.18.gemspec
+I, [2013-12-31T16:02:41.039129 #4356]  INFO -- : 0:  mysql2 (0.2.21) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/mysql2-0.2.21.gemspec
+I, [2013-12-31T16:02:41.039555 #4356]  INFO -- : 0:  rails (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/rails-2.3.18.gemspec
+I, [2013-12-31T16:02:41.039964 #4356]  INFO -- : 0:  bundler (1.5.0) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/specifications/bundler-1.5.0.gemspec
+I, [2013-12-31T16:02:48.480780 #4357]  INFO -- : 0:  rake (0.8.7) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/rake-0.8.7.gemspec
+I, [2013-12-31T16:02:48.481292 #4357]  INFO -- : 0:  activesupport (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/activesupport-2.3.18.gemspec
+I, [2013-12-31T16:02:48.481740 #4357]  INFO -- : 0:  rack (1.1.6) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/rack-1.1.6.gemspec
+I, [2013-12-31T16:02:48.482157 #4357]  INFO -- : 0:  actionpack (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/actionpack-2.3.18.gemspec
+I, [2013-12-31T16:02:48.482607 #4357]  INFO -- : 0:  actionmailer (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/actionmailer-2.3.18.gemspec
+I, [2013-12-31T16:02:48.483012 #4357]  INFO -- : 0:  activerecord (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/activerecord-2.3.18.gemspec
+I, [2013-12-31T16:02:48.483432 #4357]  INFO -- : 0:  activeresource (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/activeresource-2.3.18.gemspec
+I, [2013-12-31T16:02:48.483870 #4357]  INFO -- : 0:  mysql2 (0.2.21) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/mysql2-0.2.21.gemspec
+I, [2013-12-31T16:02:48.484298 #4357]  INFO -- : 0:  rails (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/rails-2.3.18.gemspec
+I, [2013-12-31T16:02:48.484701 #4357]  INFO -- : 0:  bundler (1.5.0) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/specifications/bundler-1.5.0.gemspec
+I, [2013-12-31T17:48:29.218590 #4800]  INFO -- : 0:  rake (0.8.7) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/rake-0.8.7.gemspec
+I, [2013-12-31T17:48:29.220293 #4800]  INFO -- : 0:  activesupport (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/activesupport-2.3.18.gemspec
+I, [2013-12-31T17:48:29.221614 #4800]  INFO -- : 0:  rack (1.1.6) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/rack-1.1.6.gemspec
+I, [2013-12-31T17:48:29.222943 #4800]  INFO -- : 0:  actionpack (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/actionpack-2.3.18.gemspec
+I, [2013-12-31T17:48:29.224251 #4800]  INFO -- : 0:  actionmailer (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/actionmailer-2.3.18.gemspec
+I, [2013-12-31T17:48:29.225580 #4800]  INFO -- : 0:  activerecord (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/activerecord-2.3.18.gemspec
+I, [2013-12-31T17:48:29.226962 #4800]  INFO -- : 0:  activeresource (2.3.18) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/activeresource-2.3.18.gemspec
+I, [2013-12-31T17:48:29.228559 #4800]  INFO -- : 0:  mysql2 (0.2.21) from /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/specifications/mysql2-0.2.21.gemspec
+E, [2013-12-31T17:48:37.166570 #4800] ERROR -- : Gem::Installer::ExtensionBuildError: ERROR: Failed to build gem native extension.
+
+        /Users/sakthi/.rvm/rubies/ruby-1.9.3-p448/bin/ruby extconf.rb 
+checking for pg_config... no
+No pg_config... trying anyway. If building fails, please try again with
+ --with-pg-config=/path/to/pg_config
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of
+necessary libraries and/or headers.  Check the mkmf.log file for more
+details.  You may need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/Users/sakthi/.rvm/rubies/ruby-1.9.3-p448/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+
+
+Gem files will remain installed in /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/gems/pg-0.17.1 for inspection.
+Results logged to /Users/sakthi/.rvm/gems/ruby-1.9.3-p448/gems/pg-0.17.1/ext/gem_make.out
+
+/Users/sakthi/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:562:in `rescue in block in build_extensions'  \n/Users/sakthi/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:540:in `block in build_extensions'  \n/Users/sakthi/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:515:in `each'  \n/Users/sakthi/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:515:in `build_extensions'  \n/Users/sakthi/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:180:in `install'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:95:in `block in install'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:94:in `install'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.5.0/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.5.0/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.5.0/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/Users/sakthi/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/forwardable.rb:201:in `each'  \n/Users/sakthi/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/forwardable.rb:201:in `each'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.5.0/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.5.0/lib/bundler/installer.rb:97:in `run'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.5.0/lib/bundler/installer.rb:15:in `install'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.5.0/lib/bundler/cli.rb:257:in `install'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.5.0/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.5.0/lib/bundler/cli.rb:10:in `start'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.5.0/bin/bundle:22:in `block in <top (required)>'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.5.0/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/gems/bundler-1.5.0/bin/bundle:22:in `<top (required)>'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/bin/bundle:23:in `load'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448@global/bin/bundle:23:in `<main>'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448/bin/ruby_executable_hooks:15:in `eval'  \n/Users/sakthi/.rvm/gems/ruby-1.9.3-p448/bin/ruby_executable_hooks:15:in `<main>'
