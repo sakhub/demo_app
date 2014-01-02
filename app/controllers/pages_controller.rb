@@ -1,8 +1,7 @@
 class PagesController < ApplicationController
-  @base_title="sdAA"
+  
   def home
-
-  	@title="Home"
+    @title="Home"
   end
 
   def contact
