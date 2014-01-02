@@ -1,6 +1,5 @@
 ActionController::Routing::Routes.draw do |map|
-  map.resources :microposts
-
+  
   map.resources :microposts
   map.resources :users
 
